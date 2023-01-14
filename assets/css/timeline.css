@@ -186,7 +186,7 @@ time {
 }
 
 .timeline-ul li:nth-child(odd) div {
-  left: 45px;
+  left: 30px;
 }
 
 .timeline-ul li:nth-child(even) div {
