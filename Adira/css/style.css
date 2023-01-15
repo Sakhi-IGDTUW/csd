@@ -472,8 +472,34 @@ h5,
     max-width: 30rem;
   }
 
+  .h1{
+    font-size: 2.25rem;
+  }
+
+  .h3{
+    font-size: 20px;
+  }
+
+  .heading-20219{
+    text-align: center;
+  }
+
+  .Adira-SG{
+    text-align: center; 
+  }
+
+  .text-cursive{
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .members{
+    margin-top: 20px;
+  }
+
   .item1 {
     grid-column: span 1;
+    margin: 20px;
   }
 
   h1 {
@@ -1567,7 +1593,7 @@ h5,
   max-width: 60px;
 }
 .block-testimony-1 h3 {
-  font-size: 18px;
+  font-size: 13px;
 }
 
 .block-13 .owl-nav {
@@ -1722,7 +1748,7 @@ h5,
 }
 .comment-list li .comment-body .meta {
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 28px;
   letter-spacing: 0.1em;
   color: #ccc;
 }
