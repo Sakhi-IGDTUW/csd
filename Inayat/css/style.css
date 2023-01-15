@@ -468,6 +468,32 @@ h5,
 
   .item1 {
     grid-column: span 1;
+    margin: 20px;
+  }
+
+  .h1{
+    font-size: 2.25rem;
+  }
+
+  .h3{
+    font-size: 20px;
+  }
+
+  .Inayat-SG{
+    text-align: center;
+  }
+
+  .heading-20219{
+    text-align: center;
+  }
+
+  .members{
+    margin-top: 20px;
+  }
+
+  .text-cursive{
+    text-align: center;
+    margin-top: 20px;
   }
 
   h1 {
