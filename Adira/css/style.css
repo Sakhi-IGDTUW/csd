@@ -276,6 +276,11 @@ html {
   background: #00a651;
 }
 
+* {
+  margin: 0;
+  padding: 0%;
+}
+
 body {
   line-height: 1.7;
   color: #364d59 !important;
@@ -447,11 +452,11 @@ h5,
   }
 
   .item-title {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .item-text {
-    font-size: 2rem;
+    font-size: 1rem;
   }
 
   .item-link:link,
@@ -467,12 +472,38 @@ h5,
     max-width: 30rem;
   }
 
+  .h1{
+    font-size: 2.25rem;
+  }
+
+  .h3{
+    font-size: 20px;
+  }
+
+  .heading-20219{
+    text-align: center;
+  }
+
+  .Adira-SG{
+    text-align: center; 
+  }
+
+  .text-cursive{
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .members{
+    margin-top: 20px;
+  }
+
   .item1 {
     grid-column: span 1;
+    margin: 20px;
   }
 
   h1 {
-    font-size: 2.4rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -598,11 +629,11 @@ h5,
 }
 
 .site-section {
-  padding: 2.5em 0;
+  /* padding: 2.5em 0; */
 }
 @media (min-width: 768px) {
   .site-section {
-    padding: 5em 0;
+    /* padding: 5em 0; */
   }
 }
 .site-section.site-section-sm {
@@ -1562,7 +1593,7 @@ h5,
   max-width: 60px;
 }
 .block-testimony-1 h3 {
-  font-size: 18px;
+  font-size: 13px;
 }
 
 .block-13 .owl-nav {
@@ -1717,7 +1748,7 @@ h5,
 }
 .comment-list li .comment-body .meta {
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 28px;
   letter-spacing: 0.1em;
   color: #ccc;
 }
