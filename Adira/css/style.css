@@ -488,10 +488,7 @@ h5,
     text-align: center; 
   }
 
-  .text-cursive{
-    text-align: center;
-    margin-top: 20px;
-  }
+  
 
   .members{
     margin-top: 20px;
@@ -502,16 +499,22 @@ h5,
     margin: 20px;
   }
 
+  .sdgs{
+    margin-bottom: 20px;
+  }
+
   h1 {
     font-size: 1.4rem;
   }
 }
 
+.text-cursive{
+  text-align: center;
+  margin-top: 20px;
+}
+
 .overview {
-  /* font-size: 30px; */
-  /* text-align: center; */
   margin-top: 60px;
-  /* margin-bottom: 100px; */
 }
 
 .overview-head {
