@@ -468,6 +468,28 @@ h5,
 
   .item1 {
     grid-column: span 1;
+    margin: 20px;
+  }
+
+  .h1{
+    font-size: 2rem;
+  }
+
+  .Cognito-SG{
+    text-align: center;
+  }
+
+  .h3{
+    font-size: 20px;
+  }
+
+  .heading-20219{
+    text-align: center;
+  }
+
+  .text-cursive{
+    text-align: center;
+    margin-top: 20px;
   }
 
   h1 {
